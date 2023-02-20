@@ -19,3 +19,9 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('http://gym-master.apps.ocp-dev.bri.co.id/login?logout=true')
 
+WebUI.setText(findTestObject('Page_BRICaMS Cash  Trade/input_username_login'), 'CU_TESLAINC_C')
+
+WebUI.setText(findTestObject('Page_BRICaMS Cash  Trade/input_password_login'), 'Nsel@1234')
+
+WebUI.click(findTestObject('Page_BRICaMS Cash  Trade/button_sign_in_login'))
+
