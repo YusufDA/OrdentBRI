@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='headlessui-menu-item-:r1p:']</value>
+         <value>//button[@id = 'headlessui-menu-item-:r1g:' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -21,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8c79e24b-6118-418c-8736-212c936a8d95</webElementGuid>
+      <webElementGuid>a46dc645-492d-4766-b80c-74b9777abe72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>bg-gray-100 text-gray-700 block px-4 py-2 text-sm</value>
-      <webElementGuid>b020e6de-0b0a-4432-a560-e29c962156b9</webElementGuid>
+      <webElementGuid>75d60d23-96e5-4500-9aa8-13d7bc9c91e6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>headlessui-menu-item-:r1p:</value>
-      <webElementGuid>2122fac3-6002-4f6a-99d8-23d7eb66f419</webElementGuid>
+      <webElementGuid>f69fc79c-8c1f-4c47-8930-afad4018c567</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>menuitem</value>
-      <webElementGuid>b537970c-bb4a-41c8-9a80-d119a879899b</webElementGuid>
+      <webElementGuid>d15b28fb-07ff-4b3d-90e7-c30c4a215946</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>77b89b8f-2ce7-4fcb-ac63-77f7e951158b</webElementGuid>
+      <webElementGuid>28820b1e-03ed-44ce-a2c8-dea4d100a0b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>data-headlessui-state</name>
       <type>Main</type>
       <value>active</value>
-      <webElementGuid>2764fdca-0980-4c24-805b-dd4fe338020f</webElementGuid>
+      <webElementGuid>2e1ae993-c255-4e9d-be92-9685be088395</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Sign Out</value>
-      <webElementGuid>7d95ccd0-32cd-4604-9690-02debaed1c3c</webElementGuid>
+      <webElementGuid>c15ee735-ce42-446c-a237-f140c1885b5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-menu-item-:r1p:&quot;)</value>
-      <webElementGuid>3e16aa73-e143-42e0-8bbc-ac1bd568cf42</webElementGuid>
+      <webElementGuid>9f9bc37d-141f-407f-a546-ce41cf4e5ebf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='headlessui-menu-item-:r1p:']</value>
-      <webElementGuid>3a78f4e6-b6bb-4e4b-8bb9-6cab5a14b3e7</webElementGuid>
+      <webElementGuid>063a69d2-718f-4d08-8344-d0bc9a993c60</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-menu-items-:r1o:']/button</value>
-      <webElementGuid>39e4ce2d-e3ca-4840-9fe5-1ee3db8a5a1e</webElementGuid>
+      <webElementGuid>4f982882-f1fa-4dfa-b3f4-c3126915c619</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Open user menu'])[2]/following::button[1]</value>
-      <webElementGuid>968f6ea0-a7cf-44b3-86e5-f38e378c9ced</webElementGuid>
+      <webElementGuid>2601e55e-2dd3-476e-9bd9-ed0d1dc6aa87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View notifications'])[1]/following::button[2]</value>
-      <webElementGuid>d425af24-1937-4125-9a5c-8891d279690b</webElementGuid>
+      <webElementGuid>f51ecf98-b473-4663-8b54-b3023ebb7a03</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[1]/preceding::button[1]</value>
-      <webElementGuid>6b3ae3f1-38d4-4620-9cef-e1e27a4b6810</webElementGuid>
+      <webElementGuid>1c8bf856-e7a0-4610-9257-a6dc09b51289</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Investment Transaction'])[1]/preceding::button[1]</value>
-      <webElementGuid>484f3287-87f3-4ef3-a11b-90d436c86cba</webElementGuid>
+      <webElementGuid>5867990f-f56d-45b7-94d1-bc85889da35e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Sign Out']/parent::*</value>
-      <webElementGuid>c4b982f0-03ba-4043-b39b-5e46d0dc44e3</webElementGuid>
+      <webElementGuid>9aebf259-fcf8-4296-94c2-5b57cb19d63b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[2]/button</value>
-      <webElementGuid>b1dc15c4-a7c8-44b8-b0a5-e95ab0fb5515</webElementGuid>
+      <webElementGuid>9d26c42d-0642-441f-96de-79f7d4086fa5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'headlessui-menu-item-:r1p:' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
-      <webElementGuid>a14b5776-6338-4af5-9238-547f3d8667c4</webElementGuid>
+      <webElementGuid>e48315ca-7005-4e8b-a58a-8d618c530ac9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='headlessui-menu-item-:r1g:']</value>
-      <webElementGuid>6be3b560-d9cd-443e-8f6f-507cc4559ebe</webElementGuid>
+      <webElementGuid>568ee95e-7a96-4d0e-871d-8aec287b8da2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-menu-items-:r1f:']/button</value>
-      <webElementGuid>14b546ae-0ee3-40e3-a043-86d378824594</webElementGuid>
+      <webElementGuid>11b18f50-9a5c-4761-8a05-cc148a043c1d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,6 +173,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'headlessui-menu-item-:r1g:' and (text() = 'Sign Out' or . = 'Sign Out')]</value>
-      <webElementGuid>e2e7a8f6-7391-41a0-b921-f65f4f5ffa75</webElementGuid>
+      <webElementGuid>9dbcd423-a96b-409b-94c4-1d5f0aebf713</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
