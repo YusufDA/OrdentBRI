@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_IFT57339</name>
+   <tag></tag>
+   <elementGuidId>e176402e-9a9a-4d14-845a-678107b7c019</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/section/div[2]/div/div[3]/div[3]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3b2b7592-c87c-41b4-a722-fed6ba26729d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-semibold text-[14px] text-[#424242]</value>
+      <webElementGuid>0d8d2b34-53ab-47df-a5a4-a135b70e2b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>IFT57339</value>
+      <webElementGuid>0ed0dd73-074b-4fa3-8acf-087690164588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;relative&quot;]/section[@class=&quot;space-y-6&quot;]/div[2]/div[@class=&quot;grid grid-cols-3 xl:grid-cols-5 gap-6&quot;]/div[@class=&quot;bg-white p-8 rounded drop-shadow-md flex flex-col justify-between col-span-3 xl:col-span-2&quot;]/div[@class=&quot;flex justify-between items-center py-2&quot;]/span[@class=&quot;font-semibold text-[14px] text-[#424242]&quot;]</value>
+      <webElementGuid>dcb759cf-4b05-476a-a6f9-9c476ec96ff1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/section/div[2]/div/div[3]/div[3]/span[2]</value>
+      <webElementGuid>a30654d2-d805-489c-b9ef-ed7b524eb354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction ID'])[1]/following::span[1]</value>
+      <webElementGuid>654751a5-5203-4ba0-886c-c2c2390d7b33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Summary'])[1]/following::span[2]</value>
+      <webElementGuid>5be6c2cf-5d60-4fce-87f9-dafdf7a8af84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction Type'])[1]/preceding::span[1]</value>
+      <webElementGuid>c947c36b-cebb-447a-a7c4-9a1147f96379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BRI to BRI (Cross Currency)'])[1]/preceding::span[2]</value>
+      <webElementGuid>e29ddf7e-4465-4888-9a10-e832be5c1d28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='IFT57339']/parent::*</value>
+      <webElementGuid>808f8846-35f3-43b6-bc8d-957d694a8274</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/span[2]</value>
+      <webElementGuid>659e2f3a-1854-4af1-b07d-88b5d30ac399</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'IFT57339' or . = 'IFT57339')]</value>
+      <webElementGuid>8be44165-db34-4050-adcb-28dc51e79141</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_On Releaser Status</name>
+   <tag></tag>
+   <elementGuidId>91f1c5ca-dbab-4f48-beb7-fd205cc8a051</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex.h-6.items-center.justify-center.rounded-full.border.text-xs.font-medium.px-6.text-warning-40.bg-warning-99.border-warning-80</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>31c7409c-39c2-418c-b584-88054b46ba34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Pending</value>
+      <webElementGuid>2749e4dc-e5b7-4bb9-90c6-c5e7735e0844</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex h-6 items-center justify-center rounded-full border text-xs font-medium px-6 text-warning-40 bg-warning-99 border-warning-80</value>
+      <webElementGuid>bcb3b20d-7ada-4962-890a-08bd25d0149c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>On Releaser</value>
+      <webElementGuid>2df78d07-e920-4c39-b12b-2895e8fec756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;relative w-full overflow-x-hidden md:ml-64  ml-0 h-[calc(100vh-64px)] top-16 bg-neutral-90&quot;]/div[@class=&quot;flex-1&quot;]/main[@class=&quot;layout-container px-4 py-8 sm:px-6 md:px-8&quot;]/div[@class=&quot;space-y-6&quot;]/div[@class=&quot;flex items-center space-x-2&quot;]/div[@class=&quot;flex h-6 items-center justify-center rounded-full border text-xs font-medium px-6 text-warning-40 bg-warning-99 border-warning-80&quot;]</value>
+      <webElementGuid>fdb9a7af-68ba-4d1f-8c9f-448797fccd38</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[3]/div/main/div/div[2]/div</value>
+      <webElementGuid>a37b7d93-04f0-4c5c-b1cb-ee54cb433a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IFT57335'])[1]/following::div[1]</value>
+      <webElementGuid>4d0af478-685d-4981-839e-c3dae100da10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/following::div[3]</value>
+      <webElementGuid>b70dc47a-5ff1-411f-b790-2b3783427305</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WORKFLOW STATUS'])[1]/preceding::div[10]</value>
+      <webElementGuid>827529ad-e931-408c-a52a-04fa0211814d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Request Sent'])[1]/preceding::div[11]</value>
+      <webElementGuid>779b4684-4173-4c74-ad5d-a7a20dd98e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='On Releaser']/parent::*</value>
+      <webElementGuid>7c85bfd9-f911-4c5e-8830-c83653eb832d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div[2]/div</value>
+      <webElementGuid>d9f41d96-ba15-4dd5-8f75-9cc1148e511c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'Pending' and (text() = 'On Releaser' or . = 'On Releaser')]</value>
+      <webElementGuid>06199a34-0e08-47a3-884b-c7f2cf07ca49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

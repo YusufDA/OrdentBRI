@@ -17,13 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://gym-master.apps.ocp-dev.bri.co.id/login?logout=true')
+System.out.println("global1: " + GlobalVariable.taskId )
 
-WebUI.maximizeWindow()
-
-WebUI.setText(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/input_username_login'), 'CU_TESLAINC_M')
-
-WebUI.setText(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/input_password_login'), 'Nsel@1234')
-
-WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/button_sign_in_login'))
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/ID a_IFT57335 Detail Click - Copy'))
 

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab Left BRI to BRI</name>
+   <tag></tag>
+   <elementGuidId>fdc21646-2c60-43c2-9fb6-e23166e6964e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='headlessui-disclosure-button-:rr:']/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d8fa65d4-0eaa-4a77-a27c-758ffb6626f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[112px] text-left line-clamp-2</value>
+      <webElementGuid>ad3f2bd1-486c-4c95-a29f-63f04b4914f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> BRI to BRI</value>
+      <webElementGuid>34fb5e72-1ae9-4bfd-a696-3b9b42485be8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-button-:rr:&quot;)/div[@class=&quot;flex flex-row items-center px-3&quot;]/span[@class=&quot;w-[112px] text-left line-clamp-2&quot;]</value>
+      <webElementGuid>d8cc7f78-fdd8-4016-b7d6-149cfcbe1f01</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='headlessui-disclosure-button-:rr:']/div/span</value>
+      <webElementGuid>b0a9cd62-7223-4baf-b803-f51f5d7c5be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Transfer Overview'])[1]/following::span[1]</value>
+      <webElementGuid>4c99b8b6-796e-49cf-a6f4-98b5ab5edb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fund Transfer'])[2]/following::span[1]</value>
+      <webElementGuid>0f4b8cad-8893-49a3-863e-2dfa887a9d53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BRI to BRI']/parent::*</value>
+      <webElementGuid>ef497860-c006-4cf8-92e3-a8c85c6fb9d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span</value>
+      <webElementGuid>315c7eb9-99d7-4a0d-bc81-0306442bb049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' BRI to BRI' or . = ' BRI to BRI')]</value>
+      <webElementGuid>b46f6392-ad63-4a30-9830-c7b93687c631</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,13 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('http://gym-master.apps.ocp-dev.bri.co.id/login?logout=true')
+WebUI.mouseOver(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'))
 
-WebUI.maximizeWindow()
+WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'))
 
-WebUI.setText(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/input_username_login'), 'CU_TESLAINC_M')
+WebUI.mouseOverOffset(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'), 30, 0)
 
-WebUI.setText(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/input_password_login'), 'Nsel@1234')
+WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left BRI to BRI'))
 
-WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/button_sign_in_login'))
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/Tab Left Transfer History'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/ID a_IFT57335 Detail Click'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/span_Approve'))
+
+WebUI.click(findTestObject('Signer Role/Pop up Not Approve/span_Cancel'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/span_Approve'))
+
+WebUI.click(findTestObject('Signer Role/Page_BRICaMS Cash  Trade/span_Approve Task'))
+
+WebUI.verifyElementVisible(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/button_Close setelah approve'), FailureHandling.STOP_ON_FAILURE)
+
+WebUI.takeScreenshot()
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/button_Close setelah approve'))
 

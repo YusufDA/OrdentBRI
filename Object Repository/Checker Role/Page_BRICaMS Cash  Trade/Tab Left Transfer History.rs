@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Tab Left Transfer History</name>
+   <tag></tag>
+   <elementGuidId>3afe72c6-b77d-4a27-bc92-387b9a3d7e17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='childButtonSidebar']/div/div[2])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>899cdda5-8a43-4269-bd6f-235263f99df2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-[SF Pro] w-[130px] text-left line-clamp-2</value>
+      <webElementGuid>f39187a6-116f-4454-ae57-2c8113d2b9df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Transfer History</value>
+      <webElementGuid>877ae7ee-5311-49b0-83e4-418b8c840b5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;min-h-screen bg-neutral-90&quot;]/div[@class=&quot;flex w-full flex-col&quot;]/div[@class=&quot;flex flex-row&quot;]/div[@class=&quot;scrollHomeDefault fixed top-16 bottom-0 ml-12 w-52 overflow-hidden bg-[#034186] hover:overflow-y-auto hover:overflow-x-hidden md:flex hidden&quot;]/div[@class=&quot;mt-4 flex w-full flex-col&quot;]/div[@id=&quot;disclosureSideBar&quot;]/div[2]/button[@id=&quot;childButtonSidebar&quot;]/div[@class=&quot;flex flex-row items-center space-x-2&quot;]/div[@class=&quot;font-[SF Pro] w-[130px] text-left line-clamp-2&quot;]</value>
+      <webElementGuid>085b11d3-e825-4fa6-a24d-ab72c3e21306</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//button[@id='childButtonSidebar']/div/div[2])[2]</value>
+      <webElementGuid>80824be1-2075-4680-9d17-6bca61e4ded6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make a Transfer'])[1]/following::div[5]</value>
+      <webElementGuid>8def138a-ba48-40ba-95e0-47b0f8c624c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Transfer History']/parent::*</value>
+      <webElementGuid>f710730b-d976-476f-bf23-138b3d812099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/div/div[2]</value>
+      <webElementGuid>380dffb5-585b-4531-9f45-2738f9b4a7b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Transfer History' or . = 'Transfer History')]</value>
+      <webElementGuid>57a8ddae-7831-4a6c-80da-3da9d4dc9d3d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
