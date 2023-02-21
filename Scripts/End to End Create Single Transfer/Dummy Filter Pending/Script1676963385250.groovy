@@ -17,7 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-System.out.println("global1: " + GlobalVariable.taskId )
-
-WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/ID a_IFT57335 Detail Click - Copy'))
-
