@@ -17,3 +17,35 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/button_Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/Select Status filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Approved Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Apply Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/Select Status filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Draft Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Apply Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/Select Status filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Rejected Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Apply Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/Select Status filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Returned Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Apply Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/Select Status filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Pending Filter'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/div_Apply Filter'))
+

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>div_Pending Filter</name>
+   <name>div_Draft Filter</name>
    <tag></tag>
-   <elementGuidId>6c73ebe9-060d-4428-96e8-ce509c52e805</elementGuidId>
+   <elementGuidId>a6dad03a-d4ee-4e4c-beda-b1065eecc67b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id = 'react-select-12-option-3' or (text() = 'Pending' or . = 'Pending')]</value>
+         <value>//div[@id = 'react-select-12-option-2' or (text() = 'Draft' or . = 'Draft')]</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>b526d1d1-dffb-4e3b-bed6-2ebdd92ccbc6</webElementGuid>
+      <webElementGuid>f8715f9a-339c-4412-a576-eceed220df21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>react-select__option react-select__option--is-focused css-1n7v3ny-option</value>
-      <webElementGuid>0538789a-39b4-409d-bd7b-b89cee3e30b6</webElementGuid>
+      <webElementGuid>0c7792e5-2e0d-4118-af20-9577d8311ce9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>e7e90ac8-84d3-4d88-8a68-8b167de76640</webElementGuid>
+      <webElementGuid>eb170317-2cb4-4f4a-a1b9-91256e24d808</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>id</name>
       <type>Main</type>
       <value>react-select-12-option-3</value>
-      <webElementGuid>a3476eb5-6b00-47c5-a912-c167f691a8b3</webElementGuid>
+      <webElementGuid>c1307f25-07f4-45e8-a207-cbba1090ea66</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>128b97eb-2d92-4934-99bd-d73edf0d4caf</webElementGuid>
+      <webElementGuid>651bb9b4-bded-4663-a6e2-4d8c3752e1b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pending</value>
-      <webElementGuid>022d7b1f-5924-4a15-b823-228d88be7cfa</webElementGuid>
+      <webElementGuid>1eb00de3-abd6-45a7-8aca-210184e57604</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/div[@id=&quot;react-select-12-option-3&quot;]</value>
-      <webElementGuid>00fab73a-1dd2-4311-b58f-9d84709a4358</webElementGuid>
+      <webElementGuid>268d4227-677e-4fdd-87e7-87971d367763</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,6 +78,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = 'react-select-12-option-3' and (text() = 'Pending' or . = 'Pending')]</value>
-      <webElementGuid>6bced03f-1ca6-4875-b2da-bea35ad01e6d</webElementGuid>
+      <webElementGuid>6d86dfbe-ccc0-4344-9669-bc27a4878e5d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
