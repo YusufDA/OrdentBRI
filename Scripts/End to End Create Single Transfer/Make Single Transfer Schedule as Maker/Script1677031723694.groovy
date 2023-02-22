@@ -21,7 +21,7 @@ WebUI.mouseOver(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fun
 
 WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'))
 
-WebUI.mouseOverOffset(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'), 30, 0)
+WebUI.mouseOverOffset(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'), 100, 100)
 
 WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left BRI to BRI'))
 

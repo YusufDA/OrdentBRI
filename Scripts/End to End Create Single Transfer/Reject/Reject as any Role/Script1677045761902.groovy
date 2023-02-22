@@ -17,6 +17,30 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.mouseOver(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'))
+
+WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'))
+
+WebUI.mouseOverOffset(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'), 100, 100)
+
+WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left BRI to BRI'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/Tab Left Transfer History'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/ID a_IFT57335 Detail Click'))
+
+WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/span_Reject'))
+
+WebUI.click(findTestObject('Signer Role/Pop up Not Approve/span_Cancel'))
+
+WebUI.click(findTestObject('Signer Role/Page_BRICaMS Cash  Trade/span_Reject'))
+
+WebUI.click(findTestObject('Signer Role/Pop up Not Approve/Others Click Box'))
+
+WebUI.setText(findTestObject('Signer Role/Pop up Not Approve/textarea_Description Remark'), 'Automate Reject')
+
+WebUI.click(findTestObject('Signer Role/Pop up Not Approve/span_Reject Task'))
+
 WebUI.verifyElementVisible(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/button_Close setelah approve'))
 
 WebUI.takeScreenshot()

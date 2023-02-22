@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='headlessui-dialog-:r4i:']/div[2]/div[2]/div[2]/div[2]/div[2]/textarea</value>
+         <value>//textarea[(text() = '' or . = '')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>82e345d7-fe36-40d9-87b1-ef406b887cc9</webElementGuid>
+      <webElementGuid>38cb0d14-bf14-47da-b584-8ef520f57f6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100</value>
-      <webElementGuid>05258ab3-93db-4b52-a159-bde044f1f923</webElementGuid>
+      <webElementGuid>e3db843b-4b1d-4490-b06f-a0bfa15efc56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>focus:border-primary-70 border-grey-70 rounded text-sm w-full disabled:bg-[#eeeeee] disabled:border-[#e6e6e6]</value>
-      <webElementGuid>d40a5638-5209-4e83-99e6-a681714ef0a4</webElementGuid>
+      <webElementGuid>55ce9e6b-ffa5-43e4-b33c-479d638f4a2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +45,7 @@
       <name>rows</name>
       <type>Main</type>
       <value>4</value>
-      <webElementGuid>e452e63b-c6e8-4cbd-84e6-c729f24d47b4</webElementGuid>
+      <webElementGuid>ccb5c215-ce83-4cda-bb4e-06899099552e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>`</value>
-      <webElementGuid>42289c9d-979d-46a7-bcc7-f2ae1ca9e8ce</webElementGuid>
+      <webElementGuid>0679dcbf-56a5-4f73-a03d-c36ac92d528c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-dialog-:r4i:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-10 overflow-hidden rounded-md opacity-100 scale-100&quot;]/div[@class=&quot;flex h-full flex-col justify-between&quot;]/div[@class=&quot;py-4&quot;]/div[@class=&quot;flex&quot;]/div[@class=&quot;w-3/4&quot;]/textarea[@class=&quot;focus:border-primary-70 border-grey-70 rounded text-sm w-full disabled:bg-[#eeeeee] disabled:border-[#e6e6e6]&quot;]</value>
-      <webElementGuid>efa0c629-45d0-4fc4-89de-32cf99a40be2</webElementGuid>
+      <webElementGuid>95b02da2-fdbd-4d91-8e49-57fde115b015</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-dialog-:r4i:']/div[2]/div[2]/div[2]/div[2]/div[2]/textarea</value>
-      <webElementGuid>880f95e4-b6b4-4a58-8b04-b504f3929356</webElementGuid>
+      <webElementGuid>5eb7c7b6-7eb9-4f91-b8d1-03d6d459c0bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Description / Remark'])[1]/following::textarea[1]</value>
-      <webElementGuid>84aeecdc-2a7d-433d-982e-5ce107847dfb</webElementGuid>
+      <webElementGuid>d4268902-a75d-44ef-950d-1127ba0c6522</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Others'])[1]/following::textarea[1]</value>
-      <webElementGuid>f253cc09-06fa-48c8-b252-755b8c2c4dab</webElementGuid>
+      <webElementGuid>46a8f5d0-6f5b-4974-8c3a-f06704282663</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::textarea[1]</value>
-      <webElementGuid>7a0183fd-a528-4e34-826a-c25fd36a7523</webElementGuid>
+      <webElementGuid>05ad1846-e9b2-4cca-b2eb-c178b04c4aef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Send Task for Rework'])[1]/preceding::textarea[1]</value>
-      <webElementGuid>3284ee6d-60da-4df3-81c3-e2f8024901cd</webElementGuid>
+      <webElementGuid>d4936c0c-925c-4ce2-942b-a632dc1667e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>157a3752-b470-48a2-b402-db2923c307a1</webElementGuid>
+      <webElementGuid>69ee397c-9df6-41cc-a2ec-2407362d263a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[(text() = '`' or . = '`')]</value>
-      <webElementGuid>647e914e-208b-47f7-8602-beb37ba8124c</webElementGuid>
+      <webElementGuid>12f24322-9e37-4853-9af1-7ba917cf60d7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

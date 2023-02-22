@@ -21,7 +21,7 @@ WebUI.mouseOver(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fun
 
 WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'))
 
-WebUI.mouseOverOffset(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'), 30, 0)
+WebUI.mouseOverOffset(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left Fund Transfer'), 100, 100)
 
 WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/Tab Left BRI to BRI'))
 
@@ -66,11 +66,13 @@ WebUI.click(findTestObject('Maker Role/Page_BRICaMS Cash  Trade/button_Close Pop
 
 detail1 = WebUI.getText(findTestObject('Maker Role/Transaction detail/Page_BRICaMS Cash  Trade/div_Transaction IDIFT57339'))
 
-String substring = detail1.substring(detail1.indexOf("IFT"));
-System.out.println("global1: " + GlobalVariable.taskId )
-System.out.println(substring);
-GlobalVariable.taskId = substring;
-System.out.println("global2: " + GlobalVariable.taskId )
+String substring = detail1.substring(detail1.indexOf('IFT'))
 
-//WebUI.closeBrowser()
+System.out.println('global1: ' + GlobalVariable.taskId)
+
+System.out.println(substring)
+
+GlobalVariable.taskId = substring
+
+System.out.println('global2: ' + GlobalVariable.taskId)
 
