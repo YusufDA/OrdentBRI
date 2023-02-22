@@ -11,7 +11,6 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>3a9ab2c2-fcaa-458f-bea3-eb9a5d43b98c</webElementGuid>
+      <webElementGuid>1bddf357-8ceb-4134-a09c-c7465111e778</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>flex flex-row items-center</value>
-      <webElementGuid>5ffe8a5d-1132-4603-b901-32f68548a623</webElementGuid>
+      <webElementGuid>686a9ece-6811-49a0-99ef-837368fd690a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -150,7 +149,7 @@
         transform: rotate(-135deg);
     }
   </value>
-      <webElementGuid>cbe1cebc-e166-413f-b749-0672a772498c</webElementGuid>
+      <webElementGuid>4b7b4342-802e-4e5e-be7e-cd65bdcf95dd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -158,7 +157,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-disclosure-button-:rp:&quot;)/div[@class=&quot;flex flex-row items-center&quot;]</value>
-      <webElementGuid>372b5060-a98e-450f-87d0-3514cd10a5af</webElementGuid>
+      <webElementGuid>34c38ece-a665-4ff8-ae72-599ef429037f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -166,7 +165,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='headlessui-disclosure-button-:rp:']/div</value>
-      <webElementGuid>dda3185b-0b06-418d-9f15-648cb6c38e1a</webElementGuid>
+      <webElementGuid>184ec311-28be-42b0-b9c3-cf2abcdbee7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -174,7 +173,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MPN'])[1]/following::div[4]</value>
-      <webElementGuid>daf8c35e-ec88-4d1a-a667-5b3111d79387</webElementGuid>
+      <webElementGuid>b95bef42-2c00-40dc-acad-96655cbf3977</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -182,7 +181,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Digi Trade &amp; Guarantee'])[1]/following::div[8]</value>
-      <webElementGuid>9954ca65-c6e5-4379-b1cf-9bdcf463a211</webElementGuid>
+      <webElementGuid>f1751531-d26a-4fb7-b413-ada5f14fdf5e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -190,7 +189,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Helpdesk'])[1]/preceding::div[4]</value>
-      <webElementGuid>f8afed9f-a806-417d-85c2-e9d12e025b06</webElementGuid>
+      <webElementGuid>909744be-6637-47a1-b23c-93bd669927e9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -198,7 +197,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[9]/dt/button/div</value>
-      <webElementGuid>f04141b3-1cbd-43f1-9e17-fea42cc1eef2</webElementGuid>
+      <webElementGuid>55b57882-9256-466c-bb97-e521984082e5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -430,6 +429,6 @@
         transform: rotate(-135deg);
     }
   ')]</value>
-      <webElementGuid>f35537a2-1906-408e-86ec-bfaa1390b355</webElementGuid>
+      <webElementGuid>cfa979bc-1f1b-4afe-baa3-7d82924d54c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
