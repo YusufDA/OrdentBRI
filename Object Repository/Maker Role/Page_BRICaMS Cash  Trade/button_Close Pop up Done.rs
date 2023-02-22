@@ -7,11 +7,10 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='headlessui-dialog-:r1b:']/div[2]/div/div[4]/div/button</value>
+         <value>//button[(text() = 'Close' or . = 'Close')]</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +21,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>a8f2eb7e-84c0-493d-b5ab-36b7077e91fd</webElementGuid>
+      <webElementGuid>159ade27-ad6e-40fe-8ce2-665c14b976f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +29,7 @@
       <name>class</name>
       <type>Main</type>
       <value>inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-white bg-secondary-50 hover:bg-secondary-45 active:bg-secondary-40 disabled:bg-secondary-50/50 flex-1</value>
-      <webElementGuid>e377288c-d55a-4bb7-9cf4-6cc3105380fd</webElementGuid>
+      <webElementGuid>9cf1daf1-10eb-48c1-a875-4d7e69ded7eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +37,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>94406690-2088-41ca-b74e-ce1752801de0</webElementGuid>
+      <webElementGuid>bd1ea3d7-25d6-42f2-86d0-820ea70506cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Close</value>
-      <webElementGuid>86fffa8f-7537-4945-8552-8d468d072ea8</webElementGuid>
+      <webElementGuid>69259b7f-cb7e-4baf-bffa-00c4435e4280</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;headlessui-dialog-:r1b:&quot;)/div[@class=&quot;absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 min-w-120 bg-white p-8 shadow-md rounded text-sm w-[240px] h-[440px] opacity-100 scale-100&quot;]/div[@class=&quot;flex flex-col justify-between items-center h-full pt-8&quot;]/div[@class=&quot;flex flex-col text-center w-full&quot;]/div[@class=&quot;flex justify-end space-x-4 w-full&quot;]/button[@class=&quot;inline-flex items-center justify-center rounded font-medium transition-all focus:ring-1 focus:ring-offset-1 disabled:cursor-not-allowed  h-10 text-sm px-5 text-white bg-secondary-50 hover:bg-secondary-45 active:bg-secondary-40 disabled:bg-secondary-50/50 flex-1&quot;]</value>
-      <webElementGuid>5baaa4a0-456d-47a4-8ece-61919a0f4f6a</webElementGuid>
+      <webElementGuid>8e3338c1-76b1-446d-b0fe-100898199145</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='headlessui-dialog-:r1b:']/div[2]/div/div[4]/div/button</value>
-      <webElementGuid>f3c844d8-41a6-4b8e-aebe-69f0039de49d</webElementGuid>
+      <webElementGuid>d7bdf101-11c9-4b6c-b185-8fb0568454fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Transaction has been successfully created!'])[2]/following::button[1]</value>
-      <webElementGuid>a9697c4f-7903-48e6-9b59-029792d3816d</webElementGuid>
+      <webElementGuid>6ce8fc99-cdb5-4cb5-890f-f7b909bfc862</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='`'])[2]/following::button[2]</value>
-      <webElementGuid>7c70a419-f3bf-45ad-8774-a93761ca21ff</webElementGuid>
+      <webElementGuid>24de7932-b363-49d0-801a-20b416087810</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[4]/div/button</value>
-      <webElementGuid>1d1ecb96-165d-4b71-974d-49516a24adb2</webElementGuid>
+      <webElementGuid>30b30bbe-8801-477e-9487-8d15a9942816</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[(text() = 'Close' or . = 'Close')]</value>
-      <webElementGuid>7e94f7c5-f6f4-414c-8e31-edf7dda23d22</webElementGuid>
+      <webElementGuid>08008bf5-86bf-4f2f-8407-01527c60dbb6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
