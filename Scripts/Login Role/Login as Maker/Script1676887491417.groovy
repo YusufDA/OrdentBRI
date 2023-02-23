@@ -19,11 +19,14 @@ import org.openqa.selenium.Keys as Keys
 import com.kms.katalon.keyword.excel.ExcelKeywords as ExcelKeywords
 
 sheet = ExcelKeywords.getExcelSheetByName(GlobalVariable.excelFile, 'Login')
+
 cell = 2
+
 String username = ExcelKeywords.getCellValueByAddress(sheet, 'A' + cell)
+
 String password = ExcelKeywords.getCellValueByAddress(sheet, 'B' + cell)
 
-WebUI.openBrowser('http://gym-master.apps.ocp-dev.bri.co.id/login?logout=true')
+WebUI.openBrowser('https://addons.cms.dev.bri.co.id/login?logout=true')
 
 WebUI.maximizeWindow()
 
