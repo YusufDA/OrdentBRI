@@ -17,9 +17,8 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.verifyElementVisible(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/button_Close setelah approve'))
+import com.kms.katalon.keyword.excel.ExcelKeywords as ExcelKeywords
 
-WebUI.takeScreenshot()
+sheet = ExcelKeywords.getExcelSheetByName(GlobalVariable.excelFile, 'BIFAST')
 
-WebUI.click(findTestObject('Checker Role/Page_BRICaMS Cash  Trade/button_Close setelah approve'))
-
+String Account = ExcelKeywords.getCellValueByAddress(sheet, 'A' + cell)

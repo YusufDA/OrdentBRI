@@ -9,4 +9,14 @@
       <initValue>'IFT57346'</initValue>
       <name>taskId</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'DataSet/Transactions.xlsx'</initValue>
+      <name>excelFile</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>cell</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
